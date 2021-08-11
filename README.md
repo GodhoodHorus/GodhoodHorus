@@ -8,6 +8,8 @@ PS : Don't look the website neo-novarion i'm reworking it > - < !
 
 ---
 
+##### My github stats, not to high right now but i'm working on it
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodhoodHorus&theme=synthwave&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
