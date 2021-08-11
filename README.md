@@ -8,7 +8,7 @@ PS : Don't look the website neo-novarion i'm reworking it > - < !
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodhoodHorus&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodhoodHorus&theme=synthwave&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GodhoodHorus/GodhoodHorus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
